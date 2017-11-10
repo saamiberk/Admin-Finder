@@ -1,0 +1,13 @@
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\Admin-Finder.exe.config
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\Admin-Finder.exe
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\Admin-Finder.pdb
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\MetroFramework.Design.dll
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\MetroFramework.dll
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\obj\Debug\Admin_Finder.Form1.resources
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\obj\Debug\Admin_Finder.Properties.Resources.resources
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\obj\Debug\Admin-Finder.csproj.GenerateResource.Cache
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\obj\Debug\Admin-Finder.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\obj\Debug\Admin-Finder.exe
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\obj\Debug\Admin-Finder.pdb
+C:\Users\root\source\repos\Admin-Finder\Admin-Finder\bin\Debug\Panels.txt
